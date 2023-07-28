@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @P4radoxxx 35 years old belgian coder / Gamer / Anime Fan
-- 👀 I’m interested in C, C++, C Sharp, Assembly code, reverse engeenering, global security.
+- 👀 I’m interested in C, C++, C Sharp, Assembly code, reverse engineering, global security.
 - 🌱 I’m currently learning C Sharp and coding basic drivers in C++
 - 📫 How to reach me -> Go to offset 0x0001337
 
