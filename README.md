@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C Sharp and coding basic drivers in C++
 - 📫 How to reach me -> Go to offset 0x00001337
 
-- Some of my projects are not public and i won't share the code for thoses !
+- Some of my projects are not public and i won't share the code for thoses if we're not collaborating
+on the project. 
 
 Add my on Uplay for some Rainbow Six Siege games !
 
