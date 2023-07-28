@@ -7,10 +7,10 @@
 on the project. Thoses includes but not only : Most of projects for classroom, my custom read/write driver,
 every games hacking projects who don't have a public release, except thoses for CS:GO wich i don't really care.
 
-
-NB : EVERY games hacking project are for learning purpose only ! Don't be an ass, cheating spoil others poeples fun !
 Add my on Uplay for some Rainbow Six Siege games !
 
+
+NB : EVERY games hacking project are for learning purpose only ! Don't be an ass, cheating spoil others poeples fun !
 <!---
 P4radoxxx/P4radoxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
