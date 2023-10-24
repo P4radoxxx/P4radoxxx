@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyril "Parad0x" Bouvier</h1>
 <h3 align="center">Passionate Belgian dev</h3>
 
-- 🌱 I’m currently learning **ASP MVC, WebAPI, X86/X64 Game Reverse Engeenering**
+- 🌱 I’m currently learning **ASP MVC, WebAPI, X86/X64 Game Reverse Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/P4radoxxx](https://github.com/P4radoxxx)
 
